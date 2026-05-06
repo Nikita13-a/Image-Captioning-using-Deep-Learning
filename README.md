@@ -1,4 +1,3 @@
-# Image-Captioning-using-Deep-Learning
 # Image Captioning using Deep Learning
 
 This project aims to generate descriptive captions for images using deep learning techniques. It combines computer vision and natural language processing to create meaningful descriptions of the content within images. The project utilizes the Flickr8K dataset, which consists of images and corresponding captions.
