@@ -57,3 +57,6 @@ The trained model is used to generate captions for test images, and performance 
 ## Conclusion
 
 This project demonstrates the effectiveness of deep learning techniques in image captioning tasks. It serves as a foundation for further research and application in areas such as assistive technology, content creation, and image understanding.
+## Dataset 
+https://www.kaggle.com/datasets/adityajn105/flickr8k
+
